@@ -1,0 +1,4 @@
+# ninja log v5
+1	12821	1730801024599869025	/data/wtf/cvpr/PGSR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	dd96d74965f4fd54
+0	26474	1730801038236297018	/data/wtf/cvpr/PGSR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	a522c0ee33226844
+1	52326	1730801064101106704	/data/wtf/cvpr/PGSR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	f004844ed47634ee
