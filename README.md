@@ -21,10 +21,10 @@ pip install -r requirements.txt
 pip install submodules/diff-plane-rasterization
 pip install submodules/simple-knn
 ```
-# Training
+## Training
 python train.py -s data_path -m out_path --max_abs_split_points 0 --opacity_cull_threshold 0.05
 
-# Rendering and Extract Mesh
+## Rendering and Extract Mesh
 python render.py -m out_path --max_depth 500.0 --voxel_size 0.01
 
 ## Acknowledgements
