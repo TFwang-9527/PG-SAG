@@ -14,8 +14,8 @@ The repository contains submodules, thus please check it out with
 git clone git@github.com:TFwang-9527/PG-SAG.git
 cd PG-SAG
 
-conda create -n pgsr python=3.8
-conda activate pgsr
+conda create -n pg-sag python=3.8
+conda activate pg-sag
 
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118 #replace your cuda version
 pip install -r requirements.txt
