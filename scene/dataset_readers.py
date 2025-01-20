@@ -339,7 +339,6 @@ def readColmapSceneInfo(path, images, eval, llffhold=8):
     a = masks[0].shape[1]
     b = cam_infos[0].width
     scale = masks[0].shape[1] / cam_infos[0].width
-    scale = round(scale * 4) * 0.25
     print("scale", scale)
 
     if eval:
