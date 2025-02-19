@@ -23,7 +23,7 @@ pip install -r requirements.txt
 pip install submodules/diff-plane-rasterization
 pip install submodules/simple-knn
 ```
-##Preprocessing
+## Preprocessing
 First,We need to obtain the building masks from the images. Here, we use lang-segment-anything (https://github.com/luca-medeiros/lang-segment-anything) for semantic segmentation.
 After obtaining the masks, place them in the same folder as the images.
 
