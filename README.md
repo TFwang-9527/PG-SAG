@@ -30,15 +30,14 @@ After obtaining the masks, place them in the mask folder.
 On the initial run of train.py, the building groups will be formed. Then, run run_vast_train.sh and run_vast_extract.sh to obtain the mesh for each building group.
 
 The data folder should shown as follows
+```shell
+dataset
+  ├── data
+        ├── images
+        ├── mask
+        ├── sparse
+```
 
-data
-└── dtu_dataset
-└── dtu
-└── scan24
-├── images
-├── mask
-├── sparse
-            
 ## Training
 python train.py -s data_path -m out_path --max_abs_split_points 0 --opacity_cull_threshold 0.05
 
