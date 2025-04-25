@@ -31,8 +31,8 @@ On the initial run of train.py, the building groups will be formed. Then, run ru
 
 The data folder should shown as follows
 ```shell
-dataset
-  ├── data
+data
+  ├── dataset
         ├── images
         ├── mask
         ├── sparse
