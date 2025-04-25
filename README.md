@@ -32,10 +32,12 @@ On the initial run of train.py, the building groups will be formed. Then, run ru
 The data folder should shown as follows
 
 data
-   └── dataset
-            ├── images
-            ├── mask
-            └── sparse
+└── dtu_dataset
+└── dtu
+└── scan24
+├── images
+├── mask
+├── sparse
             
 ## Training
 python train.py -s data_path -m out_path --max_abs_split_points 0 --opacity_cull_threshold 0.05
