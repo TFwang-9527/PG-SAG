@@ -8,7 +8,7 @@ Tengfei Wang*, [Xin Wang*](https://xwangsgg.github.io/), Yongmao Hou, Yiwei Xu, 
 
 ## Update
 PG-SAG is accepted to PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science. 
-https://doi.org/10.1007/s41064-025-00343-0
+[paper](https://doi.org/10.1007/s41064-025-00343-0)
 
 ## Installation
 
