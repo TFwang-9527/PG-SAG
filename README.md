@@ -1,10 +1,14 @@
-# PG-SAG
+# PG-SAG(PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science)
 
 PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping
 
 Tengfei Wang*, [Xin Wang*](https://xwangsgg.github.io/), Yongmao Hou, Yiwei Xu, Wendi Zhang, ZongqianZhan**.
 ![overall](https://github.com/user-attachments/assets/ed2369bc-398e-49db-9ebb-c2ad7d2f11bc)
-### [Project Page]() | [arXiv]()
+### [Project Page]() | [paper](https://doi.org/10.1007/s41064-025-00343-0)
+
+## Update
+PG-SAG is accepted to PFG – Journal of Photogrammetry, Remote Sensing and Geoinformation Science. 
+https://doi.org/10.1007/s41064-025-00343-0
 
 ## Installation
 
